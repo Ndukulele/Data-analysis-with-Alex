@@ -27,3 +27,8 @@
 - When is the right time to use the HAVING clause
 - The HAVING clause is specifically made for the GROUP clause for when using aggregate functions
 - You cannot use the WHERE function for calculations
+
+### LIMIT and Liasing ###
+- How to filter through rows using LIMIT
+- Using LIMIT to show a specifing set of rows eg. only showing rows 3 to 7 only
+- How to change the names of columns using AS
