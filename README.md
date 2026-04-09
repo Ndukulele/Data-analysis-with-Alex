@@ -22,3 +22,8 @@
 - how to use order by and its properties
 - using descending order and ascending order
 - using the numbers of the columns instead of using the names(not recommended)
+
+### Having vs Where in MySQL ###
+- When is the right time to use the HAVING clause
+- The HAVING clause is specifically made for the GROUP clause for when using aggregate functions
+- You cannot use the WHERE function for calculations
