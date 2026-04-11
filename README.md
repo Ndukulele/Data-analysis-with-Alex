@@ -42,3 +42,8 @@
 - Calling specific columns between tables to make the results more readable
 - Menipulating columns with JOIN
 - Joining multiple tables using JOIN
+
+#### UNION ####
+- Combining rows of data on separate tables or same table
+- UNION DISTINCT and UNION ALL
+- Filtering using UNION
