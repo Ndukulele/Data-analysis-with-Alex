@@ -43,6 +43,15 @@
 - Menipulating columns with JOIN
 - Joining multiple tables using JOIN
 
+#### String Functions ####
+- returning the length of strings using LENGTH
+- Changing string from uppercase to lowercase and vice versa
+- Getting rid of white space using TRIM, LTRIM, RTRIM
+- Returning specific characters of a string using LEFT,RIGHT, and SUBSTRING
+- Locating positions of characters in a string using LOCATE
+- Return true if specific characters are present using LOCATE
+- Combining columns using CONCAT
+
 #### UNION ####
 - Combining rows of data on separate tables or same table
 - UNION DISTINCT and UNION ALL
