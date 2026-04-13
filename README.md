@@ -60,4 +60,12 @@
 #### CASE ####
 - calculating using case statements
 - setting conditions using case statements for specific results
-- 
+
+#### Subqueries ####
+- Subqueries are basically a queries within another query represented by the ()
+- using subqueries on WHERE, SELECT and FROM statements
+
+#### Window functions ####
+- using PARTITION to get the total results that are partitioned(e.g. total avg/sum of male vs female employee salaries)
+- ORDER BY in PARTITIONs
+- ROW_NUMBER,RANK,DENSE_RANK
