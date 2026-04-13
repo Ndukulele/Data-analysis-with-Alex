@@ -56,3 +56,8 @@
 - Combining rows of data on separate tables or same table
 - UNION DISTINCT and UNION ALL
 - Filtering using UNION
+
+#### CASE ####
+- calculating using case statements
+- setting conditions using case statements for specific results
+- 
