@@ -69,3 +69,14 @@
 - using PARTITION to get the total results that are partitioned(e.g. total avg/sum of male vs female employee salaries)
 - ORDER BY in PARTITIONs
 - ROW_NUMBER,RANK,DENSE_RANK
+
+### Advanced ###
+
+#### CTEs (Common Table Expression) ####
+- Syntax when using CTE
+- CTEs are simpler to read compared to subqueries
+
+#### Temporary Table ####
+- creating temporary tables
+- inserting information in a temporary table
+- using temporary tables in another query
