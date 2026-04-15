@@ -80,3 +80,8 @@
 - creating temporary tables
 - inserting information in a temporary table
 - using temporary tables in another query
+
+#### Stored Procedure ####
+- how to store a query to use later on
+- using DELIMITERS to store another query within a single Procedures
+- parameters in Procedures 
