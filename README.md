@@ -84,4 +84,9 @@
 #### Stored Procedure ####
 - how to store a query to use later on
 - using DELIMITERS to store another query within a single Procedures
-- parameters in Procedures 
+- parameters in Procedures
+
+#### TRIGGERS and EVENTS
+- when to use TRIGGERS and EVENTs
+- how to update a different table after inserting new information from another
+- how to delete information from a table without manually doing it
